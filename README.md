@@ -3,5 +3,6 @@ of "football" as observed by different countries: American football, Australian 
 to different countries) 
 
 Here's a preview: 
-https://github.com/DolaF003/FootballApp/issues/1#issue-3360854004
+
+<img width="277" height="597" alt="Screenshot 2025-08-27 at 4 53 29 PM" src="https://github.com/user-attachments/assets/c3aba965-0d7c-48dd-a6a2-9ab9d2011d46" />
 
