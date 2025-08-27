@@ -1,6 +1,6 @@
-This is an app called "Football" that prompts a question, "What is Football to You" and displays different forms 
-of "football" as observed by different countries: American football, Australian football, and soccer (but "football"
-to different countries) 
+Completed Solution for This is an app called "Football" that prompts a question, "What is Football to You" and 
+displays different forms of "football" as observed by different countries: American football, Australian football, 
+and soccer (but "football"to different countries) 
 
 You can contact me through my LinkedIn: www.linkedin.com/in/adedolafakeye
 
